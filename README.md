@@ -47,7 +47,7 @@ I am a passionate software engineer with a focus on full-stack development. Here
 - MongoDB
 
 📫 **Get in Touch**
-- LinkedIn at [Chethan M](www.linkedin.com/in/chethan-m-92654b206)
+- LinkedIn at [Chethan M](https://www.linkedin.com/in/chethan-m-92654b206)
 <!--- Portfolio/Website at  -->
 - Instagram at [chethan_m__](https://www.instagram.com/chethan_m__/?next=%2F)
 - Mail me at mchethan52@gmail.com regarding any work or if you just wanna connect
