@@ -11,16 +11,16 @@ I am a passionate software engineer with a focus on full-stack development. Here
 🌐 **Experience**
 <!--- **Internship at Zapcome Private Limited (5 months):** 
   [Brief description of your responsibilities and achievements during the internship]-->
-
-💼 Currently Working at MINDORIGIN Technologies Private Limited(2st JAN 2022)
- 
-
   
-| Company                         | Role              | Period          |
-| ------------------------------- | ----------------- | --------------- |
-| Zapcom Solutions Pvt Ltd        | Intern (ReactJS)  | 5 months        |
-  
+### 💼 Current Position
+- **Company:** MINDORIGIN Technologies Private Limited
+- **Role:** Full Stack Developer
+- **Period:** Since 2nd January 2022
 
+### Previous Experience
+- **Company:** Zapcom Solutions Pvt Ltd
+  - **Role:** Intern (ReactJS)
+  - **Period:** 5 months
 
 🚀 **Projects**
 - [List some of your notable projects with brief descriptions]
