@@ -17,6 +17,7 @@ I am a passionate software engineer with a focus on full-stack development. Here
   [Brief description of your responsibilities and achievements during the internship]-->
   
 ## 💼 Current Position
+
 - **Company:** MINDORIGIN Technologies Private Limited
 - **Role:** Full Stack Developer
 - **Period:** Since 2nd January 2022
@@ -30,12 +31,16 @@ I am a passionate software engineer with a focus on full-stack development. Here
 <!-- - [List some of your notable projects with brief descriptions] -->
 
 📚 **Education**
-- Bachelor of Engineering (Mechanical) at K S Institute of Technology,  
-    - year of graduation
-    - 📍 Bengaluru, Karnataka
-- Diploma in Mechanical Engineering at S.T.J Polytechnic, Harapanahalli, Karnataka
-- School (3rd to 10th grade) at J M Imam Memorial School, Jagalur, Karnataka
 
+- **Bachelor of Engineering (Mechanical)**  
+  - **Institution:** K S Institute of Technology, Bengaluru, Karnataka  
+  - **Year of Graduation:** 2021  
+
+- **Diploma in Mechanical Engineering**  
+  - **Institution:** S.T.J Polytechnic, Harapanahalli, Karnataka  
+
+- **School (3rd to 10th grade)**  
+  - **Institution:** J M Imam Memorial School, Jagalur, Karnataka  
 
 🌱 **Currently Learning**
 - React.js 
