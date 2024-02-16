@@ -36,11 +36,11 @@ I am a passionate software engineer with a focus on full-stack development. Here
   - **Institution:** K S Institute of Technology, Bengaluru, Karnataka  
   - **Year of Graduation:** 2021  
 
-- **Diploma in Mechanical Engineering**  
+<!--- **Diploma in Mechanical Engineering**  
   - **Institution:** S.T.J Polytechnic, Harapanahalli, Karnataka  
 
 - **School (3rd to 10th grade)**  
-  - **Institution:** J M Imam Memorial School, Jagalur, Karnataka  
+  - **Institution:** J M Imam Memorial School, Jagalur, Karnataka  -->
 
 🌱 **Currently Learning**
 - React.js 
