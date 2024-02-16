@@ -1,5 +1,9 @@
 # Hello, I'm Chethan M 👋
 
+ ♂️ Pronouns (He/His/Him)
+ 
+📍 I live in Bengaluru, India
+
 I am a passionate software engineer with a focus on full-stack development. Here's a glimpse into who I am and what I do:
 
 
@@ -23,10 +27,12 @@ I am a passionate software engineer with a focus on full-stack development. Here
   - **Period:** 5 months
 
 🚀 **Projects**
-- [List some of your notable projects with brief descriptions]
+<!-- - [List some of your notable projects with brief descriptions] -->
 
 📚 **Education**
-- Bachelor of Engineering (Mechanical) at K S Institute of Technology, Bengaluru, Karnataka
+- Bachelor of Engineering (Mechanical) at K S Institute of Technology,  
+    - year of graduation
+    - 📍 Bengaluru, Karnataka
 - Diploma in Mechanical Engineering at S.T.J Polytechnic, Harapanahalli, Karnataka
 - School (3rd to 10th grade) at J M Imam Memorial School, Jagalur, Karnataka
 
