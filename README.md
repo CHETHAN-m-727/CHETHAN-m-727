@@ -19,13 +19,14 @@ I am a passionate software engineer with a focus on full-stack development. Here
 ## 💼 Current Position
 
 - **Company:** MINDORIGIN Technologies Private Limited
-- **Role:** Full Stack Developer
-- **Period:** Since 2nd January 2023
+ - **Role:** Full Stack Developer
+ - **Period:** Since 2nd January 2023
 
 ## Previous Experience
+
 - **Company:** Zapcom Solutions Pvt Ltd
   - **Role:** Intern (ReactJS)
-  - **Period:** 5 months
+  - **Period:** 18th June 2022 to 15th December 2022 (5 months)
 
 🚀 **Projects**
 <!-- - [List some of your notable projects with brief descriptions] -->
